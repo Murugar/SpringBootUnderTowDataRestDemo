@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<merchantgood id="1" name="Shirt" price="1.25" />
+	<merchantgood id="2" name="Slack" price="1.75" />
+	<merchantgood id="3" name="Brief" price="5.00" />
+	<merchantgood id="4" name="Vest" price="7.00" />
+	<merchantgood id="5" name="Watch" price="8.00" />
+</dataset>
